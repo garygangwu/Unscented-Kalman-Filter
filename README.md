@@ -28,10 +28,10 @@ The results were visualized with [Sensor Fusion utilities](https://github.com/ud
 #### Use both Lidar and Radar as the input measurements
 <img src="results/sim_both.png" width="600" />
 
-#### Use both only Lidar as the input measurements
+#### Use only Lidar as the input measurements
 <img src="results/sim_lidar_only.png" width="600" />
 
-#### Use both only Radar as the input measurements
+#### Use only Radar as the input measurements
 <img src="results/sim_radar_only.png" width="600" />
 
 ## Run the code
