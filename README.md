@@ -27,6 +27,10 @@ The results were visualized with [Sensor Fusion utilities](https://github.com/ud
 ### Simulator Result
 ![results](results/sim.png)
 
+![results](results/sim_lidar_only.png)
+
+![results](results/sim_radar_only.png)
+
 ## Run the code
 * Compile
 ```
