@@ -25,7 +25,7 @@ Accuracy
 The results were visualized with [Sensor Fusion utilities](https://github.com/udacity/CarND-Mercedes-SF-Utilities).
 
 ### Simulator Result
-![results](results/sim.png)
+![results](results/sim_both.png)
 
 ![results](results/sim_lidar_only.png)
 
