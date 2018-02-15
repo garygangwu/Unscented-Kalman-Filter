@@ -17,7 +17,7 @@ The project was created with the [Udacity Starter Code](https://github.com/udaci
 ## Results
 
 ### Input data file: obj_pose-laser-radar-synthetic-input.txt
-![results](results/data_plot.png)
+![results](results/plot.png)
 
 Accuracy
 * RMSE: <b>[0.0621189, 0.087899, 0.329564, 0.232066]</b>. This meets the expectation of RMSE <= [.09, .10, .40, .30]
