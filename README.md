@@ -24,11 +24,14 @@ Accuracy
 
 The results were visualized with [Sensor Fusion utilities](https://github.com/udacity/CarND-Mercedes-SF-Utilities).
 
-### Simulator Result
+### Simulator Results
+#### Use both Lidar and Radar as the input measurements
 ![results](results/sim_both.png)
 
+#### Use both only Lidar as the input measurements
 ![results](results/sim_lidar_only.png)
 
+#### Use both only Radar as the input measurements
 ![results](results/sim_radar_only.png)
 
 ## Run the code
